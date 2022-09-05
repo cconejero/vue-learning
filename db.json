@@ -1,0 +1,27 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "name": "Finish Project",
+      "completed": false,
+      "tag": "math"
+    },
+    {
+      "id": 2,
+      "name": "Read Book",
+      "completed": false,
+      "tag": "reading"
+    },
+    {
+      "id": 3,
+      "name": "Do Homework",
+      "completed": false,
+      "tag": "math"
+    },
+    {
+      "id": 4,
+      "name": "Go to Gym",
+      "completed": false,
+      "tag": "exercise"}
+  ]
+}
